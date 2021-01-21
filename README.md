@@ -11,6 +11,8 @@ CMSC433: Programming Language Technologies and Paradigms
 
 CMSC420: Advanced Data Structures
 
+CMSC470: Introduction to Natural Language Processing
+
 CMSC131: Object-Oriented Programming		
 
 CMSC132: Object-Oriented Programming 2	
