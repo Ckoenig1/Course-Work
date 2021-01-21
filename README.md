@@ -1,7 +1,8 @@
 # Course-Work
 List of all the Computer Science courses i have taken in college
 
-CMSC351: Algorithms \n
+CMSC351: Algorithms
+
 CMSC426: Computer Vision \n
 CMSC389N: Intro to PHP/javascript
 CMSC433: Programming Language Technologies and Paradigms 
